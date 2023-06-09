@@ -1,0 +1,7 @@
+pygame~=2.4.0
+opencv-python~=4.7.0.72
+ffpyplayer~=4.5.0
+python-dateutil~=2.8.2
+numpy~=1.24.3
+torch~=1.12.1
+pydub~=0.25.1
